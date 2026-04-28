@@ -50,7 +50,7 @@ Atualmente cursando analise e desenvolvimento de sistemas (ADS) na UNICID. Sou a
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **diagrama de classes - modelagem de banco de dados ** | diagrama de classes. | [Ver Projeto](https://drive.google.com/file/d/1EOufQBmPqVlARuv-qFsrlDnouKVzKgfI/view?usp=drive_link) |
+| **diagrama de classes**- modelagem de banco de dados ** | diagrama de classes. | [Ver Projeto](https://drive.google.com/file/d/1EOufQBmPqVlARuv-qFsrlDnouKVzKgfI/view?usp=drive_link) |
  
 ---
  
