@@ -1,6 +1,8 @@
 # Lucas Rodrigo Carvalho Cruz
-> Estudante de analise e desenvolvimento de sistemas 
- 
+ 🚀 Desenvolvedor Front-end em formação | Estudante de ADS
+
+Apaixonado por construir interfaces digitais responsivas, acessíveis e focadas na experiência do usuário.
+
 ---
  
 ### 📫 Contato & Redes Sociais
@@ -11,7 +13,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando analise e desenvolvimento de sistemas (ADS) na UNICID. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em desenvolvimento front-end,cyber security e analise de dados 
+Estudante de ADS na UNICID com os pés no Front-end e os olhos no futuro dos dados e da segurança. Acredito que tecnologia serve para resolver problemas reais, e por isso combino o desenvolvimento de interfaces fluidas com conceitos de Cyber Security e Análise de Dados para criar aplicações robustas, seguras e inteligentes. 🚀 
  
 * **Habilidades Técnicas:** front-end | HTML | CSS | Java Script
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
